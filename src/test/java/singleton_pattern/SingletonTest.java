@@ -4,10 +4,10 @@ import org.junit.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class SingletonTest {
+public class SingletonTest {
 
     @Test
-    public void SingletonTest(){
+    public void singletonTest(){
         assertEquals(Singleton.getInstance(),"Singleton");
     }
 

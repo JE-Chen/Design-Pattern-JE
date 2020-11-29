@@ -4,7 +4,7 @@ import observer_pattern.obserable.Channel;
 import observer_pattern.observer.Fans;
 import org.junit.jupiter.api.Test;
 
-class ObserverTest {
+public class ObserverTest {
 
     @Test
     void TestObserver(){
