@@ -1,4 +1,4 @@
-package SingletonPattern;
+package singleton_pattern;
 
 import org.junit.Test;
 
