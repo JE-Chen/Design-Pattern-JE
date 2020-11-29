@@ -8,7 +8,7 @@ public class SingletonTest {
 
     @Test
     public void singletonTest(){
-        assertEquals(Singleton.getInstance(),"Singleton");
+        assertEquals(Singleton.getInstance(),Singleton.getInstance());
     }
 
 }
