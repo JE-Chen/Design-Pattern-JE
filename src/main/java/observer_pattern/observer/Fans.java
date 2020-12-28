@@ -23,11 +23,7 @@ public class Fans implements Observer {
     }
 
     @Override
-    public void update() {
-        getNotify();
-    }
-
-    private void getNotify() {
-        System.out.println(this.name + " getNotify");
+    public void update(String message) {
+        System.out.println(name + " get " + message);
     }
 }

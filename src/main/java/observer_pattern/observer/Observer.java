@@ -8,6 +8,6 @@ public interface Observer {
 
     public void unsubscribe();
 
-    public void update();
+    public void update(String message);
 
 }

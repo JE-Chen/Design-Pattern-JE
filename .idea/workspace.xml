@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="30487b80-9925-4e51-ad18-44ddc5b27bf7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Design-Pattern-JE.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/observer_pattern/ObserverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/observer_pattern/ObserverTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/observer_pattern/obserable/Channel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer_pattern/obserable/Channel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/observer_pattern/obserable/Observable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer_pattern/obserable/Observable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/observer_pattern/observer/Fans.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer_pattern/observer/Fans.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/observer_pattern/observer/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer_pattern/observer/Observer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/singleton_pattern/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/singleton_pattern/Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/observer_pattern/ObserverTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/observer_pattern/ObserverTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/singleton_pattern/SingletonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/singleton_pattern/SingletonTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectId" id="1kY1G5fXJaNxyWTGmySBttyzaJ9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="jdk.selected.JAVA_MODULE" value="openjdk-15" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15885948" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WorkSpaces\Program WorkSpace\MixProgram\Design-Pattern-JE" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ObserverPattern" />
+      <recent name="SingletonPattern" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ObserverTest">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObserverTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Design-Pattern-JE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="observer_pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="observer_pattern" />
+      <option name="MAIN_CLASS_NAME" value="observer_pattern.ObserverTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObserverTest.TestObserver" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Design-Pattern-JE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="observer_pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="observer_pattern" />
+      <option name="MAIN_CLASS_NAME" value="observer_pattern.ObserverTest" />
+      <option name="METHOD_NAME" value="TestObserver" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ObserverTest" />
+        <item itemvalue="JUnit.ObserverTest.TestObserver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30487b80-9925-4e51-ad18-44ddc5b27bf7" name="Default Changelist" comment="" />
+      <created>1605862611579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605862611579</updated>
+      <workItem from="1605862612769" duration="569000" />
+      <workItem from="1605863199161" duration="2197000" />
+      <workItem from="1605877096424" duration="1219000" />
+      <workItem from="1605885171370" duration="7982000" />
+      <workItem from="1606054331954" duration="618000" />
+      <workItem from="1606626498831" duration="10218000" />
+      <workItem from="1606707183289" duration="615000" />
+      <workItem from="1606711026410" duration="1216000" />
+      <workItem from="1606872314484" duration="349000" />
+      <workItem from="1606872683174" duration="289000" />
+      <workItem from="1606872987572" duration="512000" />
+      <workItem from="1606873521531" duration="62000" />
+      <workItem from="1606873599138" duration="74000" />
+      <workItem from="1606873686253" duration="26000" />
+      <workItem from="1606873728948" duration="26000" />
+      <workItem from="1606873778494" duration="24000" />
+      <workItem from="1607932854472" duration="641000" />
+      <workItem from="1608006914401" duration="610000" />
+      <workItem from="1608278953374" duration="839000" />
+      <workItem from="1608279856195" duration="628000" />
+      <workItem from="1608280873124" duration="594000" />
+      <workItem from="1608281664864" duration="1190000" />
+      <workItem from="1608283642408" duration="595000" />
+      <workItem from="1608423255488" duration="1196000" />
+      <workItem from="1608748473398" duration="169000" />
+      <workItem from="1609120119236" duration="334000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

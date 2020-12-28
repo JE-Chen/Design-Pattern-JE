@@ -9,8 +9,8 @@ public class Channel implements Observable{
 
     private List<Observer> observers = new ArrayList<>();
 
-    public void changeState(){
-        notifyAllWatcher();
+    public void changeState(String message){
+        notifyAllWatcher(message);
     }
 
     @Override
@@ -24,8 +24,8 @@ public class Channel implements Observable{
     }
 
     @Override
-    public void notifyAllWatcher() {
+    public void notifyAllWatcher(String message) {
         for(Observer registerObserver : observers)
-            registerObserver.update();
+            registerObserver.update(message);
     }
 }

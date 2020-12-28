@@ -8,6 +8,6 @@ public interface Observable {
 
     public void remove(Observer observer);
 
-    public void notifyAllWatcher();
+    public void notifyAllWatcher(String message);
 
 }

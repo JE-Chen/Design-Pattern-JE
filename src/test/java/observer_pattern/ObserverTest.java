@@ -10,15 +10,15 @@ public class ObserverTest {
     void TestObserver(){
         Channel myChannel = new Channel();
 
-        Fans a = new Fans("a");
-        Fans b = new Fans("b");
-        Fans c = new Fans("c");
+        Fans person1 = new Fans("person1");
+        Fans person2 = new Fans("person2");
+        Fans person3 = new Fans("person3");
 
-        a.subscribe(myChannel);
-        b.subscribe(myChannel);
-        c.subscribe(myChannel);
+        person1.subscribe(myChannel);
+        person2.subscribe(myChannel);
+        person3.subscribe(myChannel);
 
-        myChannel.changeState();
+        myChannel.changeState("Hello");
     }
 
 }
