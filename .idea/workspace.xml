@@ -23,30 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30487b80-9925-4e51-ad18-44ddc5b27bf7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Design-Pattern-JE.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/discord.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_13_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/observer_pattern/ObserverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/observer_pattern/ObserverTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/observer_pattern/obserable/Channel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer_pattern/obserable/Channel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/observer_pattern/obserable/Observable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer_pattern/obserable/Observable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/observer_pattern/observer/Fans.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer_pattern/observer/Fans.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/observer_pattern/observer/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/observer_pattern/observer/Observer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/singleton_pattern/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/singleton_pattern/Singleton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/observer_pattern/ObserverTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/observer_pattern/ObserverTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/singleton_pattern/SingletonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/singleton_pattern/SingletonTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strategy_pattern/GrassStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/strategy_pattern/Strategy_Interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +37,7 @@
       <list>
         <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -107,14 +87,16 @@
       <recent name="SingletonPattern" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ObserverTest">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.StrategyTest.testStrategy">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -150,8 +132,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StrategyTest.testStrategy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Design-Pattern-JE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strategyTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="strategyTest" />
+      <option name="MAIN_CLASS_NAME" value="strategyTest.StrategyTest" />
+      <option name="METHOD_NAME" value="testStrategy" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StrategyTest.testStrategy" />
         <item itemvalue="JUnit.ObserverTest" />
         <item itemvalue="JUnit.ObserverTest.TestObserver" />
       </list>
@@ -190,7 +189,8 @@
       <workItem from="1608283642408" duration="595000" />
       <workItem from="1608423255488" duration="1196000" />
       <workItem from="1608748473398" duration="169000" />
-      <workItem from="1609120119236" duration="334000" />
+      <workItem from="1609120119236" duration="1367000" />
+      <workItem from="1614764517023" duration="920000" />
     </task>
     <servers />
   </component>
