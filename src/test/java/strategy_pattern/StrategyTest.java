@@ -1,9 +1,6 @@
-package strategyTest;
+package strategy_pattern;
 
 import org.junit.jupiter.api.Test;
-import strategy_pattern.StrategyContext;
-import strategy_pattern.GrasslandStrategy;
-import strategy_pattern.WaterStrategy;
 
 public class StrategyTest {
 

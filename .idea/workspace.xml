@@ -22,7 +22,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30487b80-9925-4e51-ad18-44ddc5b27bf7" name="Default Changelist" comment="" />
+    <list default="true" id="30487b80-9925-4e51-ad18-44ddc5b27bf7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory_pattern/EnvFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory_pattern/GrassFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory_pattern/LavaFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory_pattern/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory_pattern/ProductGrass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory_pattern/ProductLava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory_pattern/ProductWater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/factory_pattern/WaterFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/factory_pattern/FactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strategy_pattern/WaterStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strategy_pattern/WaterStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/strategyTest/StrategyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/strategy_pattern/StrategyTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,8 +96,11 @@
       <recent name="ObserverPattern" />
       <recent name="SingletonPattern" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="factory_pattern" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.StrategyTest.testStrategy">
+  <component name="RunManager" selected="JUnit.FactoryTest.testFactory">
     <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -94,6 +110,22 @@
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoryTest.testFactory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Design-Pattern-JE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="factory_pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="factory_pattern" />
+      <option name="MAIN_CLASS_NAME" value="factory_pattern.FactoryTest" />
+      <option name="METHOD_NAME" value="testFactory" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -133,12 +165,12 @@
       <module name="Design-Pattern-JE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="strategyTest.*" />
+          <option name="PATTERN" value="strategy_pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="strategyTest" />
-      <option name="MAIN_CLASS_NAME" value="strategyTest.StrategyTest" />
+      <option name="PACKAGE_NAME" value="strategy_pattern" />
+      <option name="MAIN_CLASS_NAME" value="strategy_pattern.StrategyTest" />
       <option name="METHOD_NAME" value="testStrategy" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -147,6 +179,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.FactoryTest.testFactory" />
         <item itemvalue="JUnit.StrategyTest.testStrategy" />
         <item itemvalue="JUnit.ObserverTest" />
         <item itemvalue="JUnit.ObserverTest.TestObserver" />
@@ -187,7 +220,7 @@
       <workItem from="1608423255488" duration="1196000" />
       <workItem from="1608748473398" duration="169000" />
       <workItem from="1609120119236" duration="1367000" />
-      <workItem from="1614764517023" duration="1728000" />
+      <workItem from="1614764517023" duration="4031000" />
     </task>
     <servers />
   </component>
