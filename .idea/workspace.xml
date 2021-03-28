@@ -23,18 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30487b80-9925-4e51-ad18-44ddc5b27bf7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory_pattern/EnvFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory_pattern/GrassFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory_pattern/LavaFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory_pattern/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory_pattern/ProductGrass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory_pattern/ProductLava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory_pattern/ProductWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/factory_pattern/WaterFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/factory_pattern/FactoryTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/strategy_pattern/WaterStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/strategy_pattern/WaterStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/strategyTest/StrategyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/strategy_pattern/StrategyTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +69,7 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15885948" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -101,19 +90,6 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.FactoryTest.testFactory">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FactoryTest.testFactory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Design-Pattern-JE" />
       <extension name="coverage">
@@ -221,6 +197,11 @@
       <workItem from="1608748473398" duration="169000" />
       <workItem from="1609120119236" duration="1367000" />
       <workItem from="1614764517023" duration="4031000" />
+      <workItem from="1614812333744" duration="883000" />
+      <workItem from="1614817577804" duration="1204000" />
+      <workItem from="1616893027464" duration="69000" />
+      <workItem from="1616893111687" duration="32000" />
+      <workItem from="1616893201028" duration="481000" />
     </task>
     <servers />
   </component>
